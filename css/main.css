@@ -1,1 +1,33 @@
-css
+html {
+  background: url("../images/sloths.svg");
+  background-size: 48px;
+  background-color: #bea586;
+}
+
+main {
+  background-color: #fff;
+}
+
+.banner {
+  position: relative;
+}
+
+.banner-content {
+  position: absolute;
+  font-family: Georgia;
+  color: #fff;
+}
+
+hr {
+  border-top: .1em solid #bea586;
+  border-bottom: .1em solid #bea586;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+a, p {
+  color: #000;
+  font-family: Verdana;
+}
